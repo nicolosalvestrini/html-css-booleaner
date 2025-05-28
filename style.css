@@ -38,12 +38,24 @@ header{
     font-size: 23px;
     color: rgb(0, 200, 255);
 }
-/*create title and subtitle*/
+/*/create title and subtitle*/
 
 /*insert image and description*/
 #description{
     font-size: 13px;
     margin-top: 1px;
 }
+/*/insert image and description*/
+
+/*insert paragraph*/
+#paragraph{
+    font-size: 18px;
+    font-style: normal;
+}
+#yellow{
+    background-color: yellow;
+}
+/*/insert paragraph*/
+
   
 
