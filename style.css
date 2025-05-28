@@ -19,6 +19,12 @@ header{
 }
 /*/create header*/
 
+/*margin main*/
+main{
+    margin-left: 10px;
+}
+/*/margin main*/
+
 /*create title and subtitle*/
 #title{
     font-size: 30px;
@@ -51,11 +57,22 @@ header{
 #paragraph{
     font-size: 18px;
     font-style: normal;
+    
 }
 #yellow{
     background-color: yellow;
 }
 /*/insert paragraph*/
+
+/*insert unordered list*/
+ul{
+    margin-left: opx;
+    padding-left: 15px;
+    font-size: 18px;
+}
+/*insert unordered list*/
+
+
 
   
 
