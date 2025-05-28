@@ -1,4 +1,4 @@
-
+/*create header*/
 body{
     margin: 0%;
 }
@@ -17,5 +17,27 @@ header{
     margin-top: 50px;
     margin-left: 10px;
 }
+/*/create header*/
+
+/*create title and subtitle*/
+#title{
+    font-size: 30px;
+}
+
+.grey{
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.422);
+}
+
+#date{
+    font-size: 18px;
+     color: rgba(0, 0, 0, 0.422);
+}
+
+#booleaner{
+    font-size: 23px;
+    color: rgb(0, 200, 255);
+}
+/*create title and subtitle*/
   
 
