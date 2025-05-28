@@ -54,12 +54,12 @@ main{
 /*/insert image and description*/
 
 /*insert paragraph*/
-#paragraph{
+.paragraph{
     font-size: 18px;
     font-style: normal;
     
 }
-#yellow{
+.yellow{
     background-color: yellow;
 }
 /*/insert paragraph*/
@@ -71,6 +71,29 @@ ul{
     font-size: 18px;
 }
 /*insert unordered list*/
+
+/*insert table*/
+#table{
+    width: 780px;
+    text-align: left;
+    border-collapse: collapse;
+    
+
+}
+
+#thead{
+    background-color: rgba(0, 166, 255, 0.862);
+    color: white;
+}
+
+.border{
+    
+}
+
+#azure{
+    background-color: rgba(0, 166, 255, 0.288);
+
+}
 
 
 
