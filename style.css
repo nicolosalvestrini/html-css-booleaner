@@ -1,6 +1,12 @@
+#contenitore-centrato{
+    max-width: 1020px;
+    margin: auto;
+    padding: 0 15px;
+}
 /*create header*/
+
 body{
-    margin: 0px;
+    
 }
 
 header{
@@ -103,6 +109,7 @@ section{
 /*create footer*/
 footer{
     margin-top: 80px;
+    margin-left: 10px;
     
 }
 
