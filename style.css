@@ -1,6 +1,6 @@
 /*create header*/
 body{
-    margin: 0%;
+    margin: 0px;
 }
 
 header{
@@ -66,7 +66,7 @@ main{
 
 /*insert unordered list*/
 ul{
-    margin-left: opx;
+    margin-left: 0px;
     padding-left: 15px;
     font-size: 18px;
 }
@@ -88,7 +88,7 @@ td{
     color: white;
 }
 
-#azure{
+.azure{
     background-color: rgba(0, 166, 255, 0.288);
 
 }
